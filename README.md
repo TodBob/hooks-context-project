@@ -1,3 +1,9 @@
+Project focused on React. Using Hooks, Context, Router, LocalStorage
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
