@@ -1,4 +1,6 @@
-Project focused on React. Using Hooks, Context, Router, LocalStorage
+Project focused on React. Using Hooks, Context API, Router, LocalStorage
+
+----------------------
 
 
 
